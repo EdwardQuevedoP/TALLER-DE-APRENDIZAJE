@@ -1,4 +1,4 @@
-fetch('https://dog.ceo/api/breeds/image/random')
+fetch('https://dog.ceo/api/breeds/image/random')//consumimos el api dog
     .then(response => {
         // Verificar si la respuesta 
         if (!response.ok) {
