@@ -8,4 +8,4 @@ for(var i=0;i<=frutas.length-1;i++){
     // lo que decirmos que es i sea igual a una posicion que aumente y decimos que sea <= frutas.length que es pase por 
     //frutas en las posiciones 
     console.log(frutas[i])//aca imprimimos el for osea el buble que pasa por todos los objetos
-}
+} 

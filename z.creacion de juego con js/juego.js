@@ -7,7 +7,7 @@ var intentos = 0;
 function adivinarNumero() {
     // Obtener el valor ingresado por el usuario
     var guess = document.getElementById("guessInput").value;
-
+ 
 
     // Incrementar el contador de intentos
     intentos++;

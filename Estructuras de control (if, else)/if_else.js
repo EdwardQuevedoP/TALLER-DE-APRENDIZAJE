@@ -3,7 +3,7 @@ function verificarParidad(numero) {
     return (numero % 2 === 0) ? "El número es par." : "El número es impar.";
 }
 
-// Ejemplos de uso
+// Ejemplos de uso 
 console.log(verificarParidad(4));
 console.log(verificarParidad(7));
 

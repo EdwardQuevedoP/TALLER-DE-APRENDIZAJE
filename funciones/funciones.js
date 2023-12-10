@@ -7,4 +7,4 @@ function suma (num1,num2){
 }
 var resultado = suma(5,10)//creamos una variable que se llame resultado que llame la funcion y le de valor a los dos datos 
 console.log(resultado)//imprimimos la variable resultado
-// imprime  15
+// imprime  15 
